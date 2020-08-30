@@ -1,2 +1,2 @@
-# tennal
-experimental project for cloud deployment and management
+# Tennal
+Experimental project for cloud deployment and management.
